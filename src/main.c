@@ -1,8 +1,7 @@
 #include <msgpack.h>
-#include <inttypes.h>
 
 #include "serialize.h"
-
+#include "deserialize.h"
 
 int main() {
 
@@ -25,17 +24,19 @@ int main() {
             break;
         
         case 2:
-            printf("Deserialize\r\n");
+            deserialize();
             break;
 
         case 3:
             printf("Чтение информации\r\n");
             break;
 
+        case 0: break;
+
         default: 
             printf("Неверный ввод");
             break;
-            
+
         }
 
         printf("\t\n");

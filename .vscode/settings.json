@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "serialize.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "msgpack.h": "c",
+        "inttypes.h": "c",
+        "typeinfo": "c",
+        "deserialize.h": "c"
     }
 }

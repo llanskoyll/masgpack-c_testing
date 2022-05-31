@@ -9,11 +9,13 @@
 ../include/serialize.h
 stdio.h
 -
-
-/home/artem/Рабочий стол/msgpack/src/main.c
+inttypes.h
+-
 msgpack.h
 -
-inttypes.h
+
+/home/artem/Рабочий стол/msgpack/src/serialize.c
+msgpack.h
 -
 serialize.h
 /home/artem/Рабочий стол/msgpack/src/serialize.h

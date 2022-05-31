@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "App"
   "App.pdb"
+  "CMakeFiles/App.dir/src/deserialize.c.o"
   "CMakeFiles/App.dir/src/main.c.o"
   "CMakeFiles/App.dir/src/serialize.c.o"
 )

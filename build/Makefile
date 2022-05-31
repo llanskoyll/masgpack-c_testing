@@ -123,6 +123,33 @@ App/fast:
 	$(MAKE) -f CMakeFiles/App.dir/build.make CMakeFiles/App.dir/build
 .PHONY : App/fast
 
+src/deserialize.o: src/deserialize.c.o
+
+.PHONY : src/deserialize.o
+
+# target to build an object file
+src/deserialize.c.o:
+	$(MAKE) -f CMakeFiles/App.dir/build.make CMakeFiles/App.dir/src/deserialize.c.o
+.PHONY : src/deserialize.c.o
+
+src/deserialize.i: src/deserialize.c.i
+
+.PHONY : src/deserialize.i
+
+# target to preprocess a source file
+src/deserialize.c.i:
+	$(MAKE) -f CMakeFiles/App.dir/build.make CMakeFiles/App.dir/src/deserialize.c.i
+.PHONY : src/deserialize.c.i
+
+src/deserialize.s: src/deserialize.c.s
+
+.PHONY : src/deserialize.s
+
+# target to generate assembly for a file
+src/deserialize.c.s:
+	$(MAKE) -f CMakeFiles/App.dir/build.make CMakeFiles/App.dir/src/deserialize.c.s
+.PHONY : src/deserialize.c.s
+
 src/main.o: src/main.c.o
 
 .PHONY : src/main.o
@@ -186,6 +213,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... App"
+	@echo "... src/deserialize.o"
+	@echo "... src/deserialize.i"
+	@echo "... src/deserialize.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

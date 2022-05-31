@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/home/artem/Рабочий стол/msgpack/src/deserialize.c" "/home/artem/Рабочий стол/msgpack/build/CMakeFiles/App.dir/src/deserialize.c.o"
   "/home/artem/Рабочий стол/msgpack/src/main.c" "/home/artem/Рабочий стол/msgpack/build/CMakeFiles/App.dir/src/main.c.o"
   "/home/artem/Рабочий стол/msgpack/src/serialize.c" "/home/artem/Рабочий стол/msgpack/build/CMakeFiles/App.dir/src/serialize.c.o"
   )

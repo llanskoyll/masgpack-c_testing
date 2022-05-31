@@ -1,1 +1,1 @@
-/usr/bin/cc    CMakeFiles/App.dir/src/main.c.o CMakeFiles/App.dir/src/serialize.c.o  -o App  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmsgpackc.so.2.0.0 
+/usr/bin/cc    CMakeFiles/App.dir/src/deserialize.c.o CMakeFiles/App.dir/src/main.c.o CMakeFiles/App.dir/src/serialize.c.o  -o App  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmsgpackc.so.2.0.0 
