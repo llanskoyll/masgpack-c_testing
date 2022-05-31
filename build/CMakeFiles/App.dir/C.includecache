@@ -13,10 +13,8 @@ stdio.h
 /home/artem/Рабочий стол/msgpack/src/main.c
 msgpack.h
 -
-serialize.h
-/home/artem/Рабочий стол/msgpack/src/serialize.h
-
-/home/artem/Рабочий стол/msgpack/src/serialize.c
+inttypes.h
+-
 serialize.h
 /home/artem/Рабочий стол/msgpack/src/serialize.h
 
