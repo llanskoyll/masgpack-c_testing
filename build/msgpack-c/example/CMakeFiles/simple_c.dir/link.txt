@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/simple_c.dir/simple_c.c.o  -o simple_c  -Wl,-rpath,"/home/artem/Рабочий стол/msgpack/build/msgpack-c" ../libmsgpackc.so.2.0.0 

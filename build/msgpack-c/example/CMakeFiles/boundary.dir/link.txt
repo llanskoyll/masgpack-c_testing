@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/boundary.dir/boundary.c.o  -o boundary  -Wl,-rpath,"/home/artem/Рабочий стол/msgpack/build/msgpack-c" ../libmsgpackc.so.2.0.0 

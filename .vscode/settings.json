@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "serialize.h": "c",
+        "stdio.h": "c"
+    }
+}

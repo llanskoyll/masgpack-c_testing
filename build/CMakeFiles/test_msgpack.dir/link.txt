@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/test_msgpack.dir/main.c.o  -o test_msgpack  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmsgpackc.so.2.0.0 

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/lib_buffer_unpack.dir/lib_buffer_unpack.c.o  -o lib_buffer_unpack  -Wl,-rpath,"/home/artem/Рабочий стол/msgpack/build/msgpack-c" ../libmsgpackc.so.2.0.0 

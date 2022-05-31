@@ -1,0 +1,3 @@
+/home/artem/Рабочий стол/msgpack/build/CMakeFiles/rebuild_cache.dir
+/home/artem/Рабочий стол/msgpack/build/CMakeFiles/edit_cache.dir
+/home/artem/Рабочий стол/msgpack/build/CMakeFiles/App.dir
