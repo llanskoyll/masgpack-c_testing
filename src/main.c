@@ -11,7 +11,6 @@ int main() {
 
         printf("Сериализация  - 1 \r\n");
         printf("Десериализация - 2 \r\n");
-        printf("Прочитать информацию - 3 \r\n");
         printf("Выход - 0 \r\n");
         printf("Введите нужную опцию - ");
         scanf("%hhu", &change);
@@ -25,10 +24,6 @@ int main() {
         
         case 2:
             deserialize();
-            break;
-
-        case 3:
-            printf("Чтение информации\r\n");
             break;
 
         case 0: break;

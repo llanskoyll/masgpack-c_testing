@@ -24,5 +24,5 @@ void deserialize() {
 
     fclose(fp);
     msgpack_sbuffer_free(buffer);
-    msgpack_packer_free(pk);
+
 }

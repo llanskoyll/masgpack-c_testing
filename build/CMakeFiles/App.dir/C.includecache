@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+../include/deserialize.h
+stdio.h
+-
+inttypes.h
+-
+sys/stat.h
+-
+msgpack.h
+-
+
 ../include/serialize.h
 stdio.h
 -
@@ -14,9 +24,11 @@ inttypes.h
 msgpack.h
 -
 
-/home/artem/Рабочий стол/msgpack/src/serialize.c
+/home/artem/Рабочий стол/msgpack/src/main.c
 msgpack.h
 -
 serialize.h
 /home/artem/Рабочий стол/msgpack/src/serialize.h
+deserialize.h
+/home/artem/Рабочий стол/msgpack/src/deserialize.h
 
